@@ -4,6 +4,6 @@
 
 
 - 🔭 I’m currently working on Freelance projects.
-- 🌱 I’m currently learning Frontend development in Lemoncode master
+- 🌱 I am currently learning Frontend development at Lemoncode master
 
 
