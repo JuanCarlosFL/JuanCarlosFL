@@ -9,8 +9,10 @@ const obijuankynobi = {
   passions: ['web development', 'music', 'basketball']
 }
 ```
-- [You can find me in Linkedin ](https://github.com/JuanCarlosFL/JuanCarlosFL/assets/66184823/cbdc1fa5-762a-4bbf-bc4e-9ec7399e1c3c)
 - 🔭 I’m currently working on Freelance projects.
 - 🌱 I am currently learning Frontend development at Lemoncode master
 
+### You can find me
+- [Linkedin](https://github.com/JuanCarlosFL/JuanCarlosFL/assets/66184823/cbdc1fa5-762a-4bbf-bc4e-9ec7399e1c3c)
+- [Twitter](https://twitter.com/JuanCarlos_F_L)
 
